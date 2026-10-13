@@ -87,10 +87,14 @@ if rec:
     left,right=st.columns([1,1.15],gap='large')
     with left:
         show_photo(rec)
-        info=ROOT/'assets'/f"info_{rec['id']:02d}.webp"
-        if info.exists():
+        info_svg=ROOT/'assets'/f"info_{rec['id']:02d}.svg"
+        info_webp=ROOT/'assets'/f"info_{rec['id']:02d}.webp"
+        if info_svg.exists() or (info_webp.exists() and rec['id'] not in {14,27,51,53,64}):
             st.caption('Über diesen Cocktail')
-            st.image(str(info),use_container_width=True)
+            if info_svg.exists():
+                st.image(info_svg.read_text(encoding='utf-8'),use_container_width=True)
+            else:
+                st.image(str(info_webp),use_container_width=True)
     with right:
         servings=st.number_input('🍹 Anzahl Cocktails',min_value=1,max_value=30,value=1,step=1,key=f"servings_{rec['id']}")
         st.markdown('#### Zutaten')
