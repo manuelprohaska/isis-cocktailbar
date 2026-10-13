@@ -15,7 +15,7 @@ streamlit run app.py
 ```
 
 ## Bestehende Live-App aktualisieren
-Die Live-App ist mit dem GitHub-Repository `manuelprohaska/isis-cocktailbar` verbunden. Dort liegt noch die ältere App mit 70 Cocktails. Die Bilddateien im Repository sind mit denen dieser Version identisch. Für die Aktualisierung reichen daher drei Dateien:
+Die Live-App ist mit dem GitHub-Repository `manuelprohaska/isis-cocktailbar` verbunden. Die benötigten Bilddateien liegen dort bereits. Für eine erneute Aktualisierung der App reichen daher drei Dateien:
 
 1. ZIP entpacken. **Nicht das ZIP selbst** bei GitHub hochladen.
 2. Im Repository auf dem Branch `main` über **Add file → Upload files** die entpackten Dateien `app.py`, `recipes.json` und `requirements.txt` hochladen. Vorhandene Dateien gleichen Namens ersetzen.
