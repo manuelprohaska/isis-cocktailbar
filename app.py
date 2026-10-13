@@ -41,6 +41,8 @@ st.markdown('<div class="hero"><div class="eyebrow">17. Oktober 2026 · 40 & Fab
 
 if 'selected' not in st.session_state: st.session_state.selected=None
 if 'surprise_id' not in st.session_state: st.session_state.surprise_id=None
+if 'scroll_token' not in st.session_state: st.session_state.scroll_token=0
+if 'scroll_pending' not in st.session_state: st.session_state.scroll_pending=False
 
 a,b=st.columns([1,1])
 with a: selected_spirits=st.multiselect('🍾 Spirituosen auswählen',SPIRITS,placeholder='Alle Spirituosen')
@@ -70,7 +72,18 @@ rec=next((r for r in RECIPES if r['id']==st.session_state.selected),None)
 if rec:
     if st.session_state.surprise_id==rec['id']:
         st.success(f"🎲 Deine Überraschung: {rec['name']}")
-    st.divider();st.markdown(f"## 🍹 {rec['name']}")
+    st.divider()
+    if st.session_state.scroll_pending:
+        target=f"isi-recipe-top-{st.session_state.scroll_token}"
+        st.html(
+            f'<div id="{target}" style="height:0;scroll-margin-top:16px"></div>'
+            '<script>requestAnimationFrame(() => requestAnimationFrame(() => {'
+            f'document.getElementById("{target}")?.scrollIntoView({{behavior:"auto",block:"start"}});'
+            '}));</script>',
+            unsafe_allow_javascript=True,
+        )
+        st.session_state.scroll_pending=False
+    st.markdown(f"## 🍹 {rec['name']}")
     left,right=st.columns([1,1.15],gap='large')
     with left:
         show_photo(rec)
@@ -109,5 +122,7 @@ for off in range(0,len(matched),3):
                 if st.button('Rezept ansehen →',key=f"open_{recipe['id']}"):
                     st.session_state.selected=recipe['id']
                     st.session_state.surprise_id=None
+                    st.session_state.scroll_token+=1
+                    st.session_state.scroll_pending=True
                     st.rerun()
 st.divider();st.caption('Isi’s Cocktailbar · Mit Liebe zu deinem 40er · Bitte verantwortungsvoll genießen. 🍸')

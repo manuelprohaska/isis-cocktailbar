@@ -13,6 +13,7 @@ Es werden ausschließlich die 56 aktiven Rezepte ausgeliefert. Die geprüften Te
 ## App-Korrekturen
 
 - Das ausgewählte Rezept steht nun direkt unter dem Surprise-Button und ist sofort sichtbar.
+- Nach „Rezept ansehen“ springt die Ansicht automatisch zum geöffneten Rezept.
 - Die Zufallsauswahl vermeidet bei mehreren Treffern eine unmittelbare Wiederholung.
 - Der Portionswert ist pro Cocktail getrennt. Bei mehreren Cocktails weist die App darauf hin, dass die freigegebenen Zubereitungsschritte ein Glas beschreiben.
 - Der Gin-Filter erkennt `Gin` als eigenes Wort und verwechselt es nicht mehr mit `Ginger Beer`.

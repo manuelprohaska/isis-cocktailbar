@@ -25,7 +25,7 @@ Die Live-App ist mit dem GitHub-Repository `manuelprohaska/isis-cocktailbar` ver
 Für ein neues, leeres Repository müssen zusätzlich `recipes.json`, `requirements.txt`, `assets/` und `.streamlit/config.toml` in derselben Ordnerstruktur hochgeladen werden. Die Datei `QA_SUMMARY.md` dient nur der Dokumentation.
 
 ## Bedienung
-Auf Mobilgeräten Filter nach Spirituosen, Zutaten oder Cocktailname auswählen. Cocktailkarte anklicken, Menge skalieren und Zubereitung lesen. Der Surprise-Button zeigt sofort ein zufälliges Rezept aus den gefilterten Ergebnissen. Die Mengenliste skaliert; die freigegebenen Zubereitungsschritte beschreiben weiterhin einen Cocktail.
+Auf Mobilgeräten Filter nach Spirituosen, Zutaten oder Cocktailname auswählen. „Rezept ansehen“ öffnet den Cocktail und scrollt automatisch zu dessen Rezept oberhalb der Cocktailkarte. Dort Menge skalieren und Zubereitung lesen. Der Surprise-Button zeigt sofort ein zufälliges Rezept aus den gefilterten Ergebnissen. Die Mengenliste skaliert; die freigegebenen Zubereitungsschritte beschreiben weiterhin einen Cocktail.
 
 ## Qualitäts- und Sicherheitshinweise
 - Mengen aus der finalen Prüfdatei wurden **nicht eigenständig abgeändert**.
