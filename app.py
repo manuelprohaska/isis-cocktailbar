@@ -76,7 +76,7 @@ if rec:
     if st.session_state.scroll_pending:
         target=f"isi-recipe-top-{st.session_state.scroll_token}"
         st.html(
-            f'<div id="{target}" style="height:0;scroll-margin-top:16px"></div>'
+            f'<div id="{target}" style="height:0;scroll-margin-top:96px"></div>'
             '<script>requestAnimationFrame(() => requestAnimationFrame(() => {'
             f'document.getElementById("{target}")?.scrollIntoView({{behavior:"auto",block:"start"}});'
             '}));</script>',
