@@ -1,0 +1,1831 @@
+[
+  {
+    "id": 0,
+    "name": "7 & 7",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "50",
+        "unit": "ml",
+        "ingredient": "Whisky",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "150",
+        "unit": "ml",
+        "ingredient": "7-Up",
+        "note": "Automatisch erkannt – prüfen"
+      }
+    ],
+    "steps": [
+      "Highball-Glas mit Eis füllen.",
+      "50ml Whisky und 150ml 7-Up darüber gießen.",
+      "Mit Zitronenstück garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 2,
+    "name": "Appletini",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "40",
+        "unit": "ml",
+        "ingredient": "Wodka",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "15",
+        "unit": "ml",
+        "ingredient": "Apfelschnaps",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "15",
+        "unit": "ml",
+        "ingredient": "Cointreau",
+        "note": "Bisherige Zutatenliste"
+      }
+    ],
+    "steps": [
+      "Glas mit Eiswürfeln füllen.",
+      "40ml Wodka, 15ml Apfelschnaps und 15ml Cointreau darüber gießen.",
+      "Gut umrühren und in gekühltes Cocktailglas abseihen.",
+      "Mit einer Apfelscheibe garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 3,
+    "name": "B-52",
+    "status": "Korrigiert",
+    "ingredients": [
+      {
+        "qty": "20",
+        "unit": "ml",
+        "ingredient": "Kahlúa",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "20",
+        "unit": "ml",
+        "ingredient": "Baileys",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "20",
+        "unit": "ml",
+        "ingredient": "Cointreau",
+        "note": "Automatisch erkannt – prüfen"
+      }
+    ],
+    "steps": [
+      "20 ml Kahlúa in ein Shooter-Glas geben.",
+      "Vorsichtig 20 ml Baileys darüber schichten, danach 20 ml Cointreau.",
+      "Optional anzünden und mit Strohhalm brennend trinken."
+    ],
+    "note": ""
+  },
+  {
+    "id": 4,
+    "name": "Bacardi Cocktail",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "45",
+        "unit": "ml",
+        "ingredient": "Weißer Rum",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "20",
+        "unit": "ml",
+        "ingredient": "Limettensaft",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "10",
+        "unit": "ml",
+        "ingredient": "Grenadine",
+        "note": "Automatisch erkannt – prüfen"
+      }
+    ],
+    "steps": [
+      "Shaker mit Eiswürfeln füllen.",
+      "45ml weißen Rum, 20ml Limettensaft und 10ml Grenadinesirup darüber gießen.",
+      "Gut schütteln und ins Cocktailglas abseihen."
+    ],
+    "note": ""
+  },
+  {
+    "id": 5,
+    "name": "Bee’s Knees",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "50",
+        "unit": "ml",
+        "ingredient": "Gin",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "2",
+        "unit": "TL",
+        "ingredient": "Honig",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "15",
+        "unit": "ml",
+        "ingredient": "Honigsirup",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "20",
+        "unit": "ml",
+        "ingredient": "Zitronensaft",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "20",
+        "unit": "ml",
+        "ingredient": "Orangensaft",
+        "note": "Automatisch erkannt – prüfen"
+      }
+    ],
+    "steps": [
+      "Mischen Sie 50ml Gin und 2 Teelöffel Honig (oder 15ml Honigsirup) in einen Cocktail-Shaker.",
+      "Rühren Sie, bis sich der Honig auflöst, und fügen Sie 20ml Zitronensaft und 20ml Orangensaft hinzu.",
+      "Eis hinzufügen und gut schütteln.",
+      "In ein Martini Glas oder in ein Tumbler Glas mit Eis abseihen.",
+      "Mit einer Orangenschale garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 6,
+    "name": "Between The Sheets",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "20",
+        "unit": "ml",
+        "ingredient": "Brandy",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "20",
+        "unit": "ml",
+        "ingredient": "Weißer Rum",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "20",
+        "unit": "ml",
+        "ingredient": "Triple Sec",
+        "note": "Automatisch erkannt – prüfen"
+      }
+    ],
+    "steps": [
+      "Shaker mit Eis füllen.",
+      "20 ml Brandy, 20 ml weißen Rum, 20 ml Triple Sec und den Saft einer halben Zitrone hinzufügen.",
+      "Gut schütteln und in ein Cocktailglas abseihen.",
+      "Mit einer Zitronenzeste garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 7,
+    "name": "Black Russian",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "50",
+        "unit": "ml",
+        "ingredient": "Wodka",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "20",
+        "unit": "ml",
+        "ingredient": "Kaffeelikör",
+        "note": "Bisherige Zutatenliste"
+      }
+    ],
+    "steps": [
+      "Tumbler mit Eiswürfeln füllen.",
+      "50ml Wodka und 20ml Kaffeelikör darüber gießen.",
+      "Leicht umrühren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 8,
+    "name": "Blue Kamikaze",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "50",
+        "unit": "ml",
+        "ingredient": "Wodka",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "50",
+        "unit": "ml",
+        "ingredient": "Blue Curaçao",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "50",
+        "unit": "ml",
+        "ingredient": "Limettensaft",
+        "note": "Automatisch erkannt – prüfen"
+      }
+    ],
+    "steps": [
+      "Shaker mit Eiswürfeln füllen.",
+      "50ml Wodka, 50ml Blue Curacao und 50ml Limettensaft dazugeben.",
+      "Gut schütteln und ins Shooter-Glas abseihen."
+    ],
+    "note": ""
+  },
+  {
+    "id": 9,
+    "name": "Blue Lagoon",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Wodka",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Blue Curaçao",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "120",
+        "unit": "ml",
+        "ingredient": "Limonade",
+        "note": "Bisherige Zutatenliste"
+      }
+    ],
+    "steps": [
+      "Etwas Eis in Hurricane- oder Highball-Glas geben.",
+      "30ml Wodka und 30ml Blue Curacao darüber gießen.",
+      "120ml Limonade dazugeben.",
+      "Gut verrühren und mit Zitronenstück garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 14,
+    "name": "Brave Bull",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "50",
+        "unit": "ml",
+        "ingredient": "Tequila Silver",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Kahlúa",
+        "note": "Automatisch erkannt – prüfen"
+      }
+    ],
+    "steps": [
+      "Tumbler mit Eis füllen.",
+      "50ml Tequila Silver und 30ml Kahlua darüber gießen.",
+      "Leicht umrühren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 15,
+    "name": "Buck’s Fizz",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "100",
+        "unit": "ml",
+        "ingredient": "Orangensaft",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "50",
+        "unit": "ml",
+        "ingredient": "Sekt",
+        "note": "Automatisch erkannt – prüfen"
+      }
+    ],
+    "steps": [
+      "100ml Orangensaft in ein Glas füllen.",
+      "50ml Sekt oder trockenen Sekt dazugeben und leicht umrühren.",
+      "Mit Orangen-Twist garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 17,
+    "name": "Caipirinha",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "50",
+        "unit": "ml",
+        "ingredient": "Cachaça",
+        "note": "Bisherige Zutatenliste"
+      }
+    ],
+    "steps": [
+      "Limette achteln, zusammen mit Zucker ins Cocktailglas geben und zerstoßen.",
+      "50ml Cachaça darüber gießen und umrühren damit sich etwas vom Zucker auflöst.",
+      "Crushed Ice hinzufügen und etwas umrühren damit ein bisschen vom Eis schmelzen kann.",
+      "Mit Limettenstück garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 18,
+    "name": "Cape Cod",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "40",
+        "unit": "ml",
+        "ingredient": "Wodka",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "120",
+        "unit": "ml",
+        "ingredient": "Cranberrysaft",
+        "note": "Bisherige Zutatenliste"
+      }
+    ],
+    "steps": [
+      "Highball-Glas mit Eis füllen.",
+      "40ml Wodka und 120ml Cranberrysaft dazugeben.",
+      "Gut verrühren und mit Limettenstück garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 19,
+    "name": "Clover Club",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "45",
+        "unit": "ml",
+        "ingredient": "Gin",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "15",
+        "unit": "ml",
+        "ingredient": "Grenadine",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "15",
+        "unit": "ml",
+        "ingredient": "Zitronensaft",
+        "note": "Automatisch erkannt – prüfen"
+      }
+    ],
+    "steps": [
+      "Shaker mit Eiswürfeln füllen.",
+      "45ml Gin, 15ml Himbeersirup oder Grenadinesirup und 15ml Zitronensaft darüber gießen.",
+      "Mehrere Tropfen Eiweiß dazu geben um den weißen Schaum auf dem Drink zu bekommen.",
+      "Gut schütteln und ins Cocktailglas abseihen."
+    ],
+    "note": ""
+  },
+  {
+    "id": 20,
+    "name": "Colorado Bulldog",
+    "status": "Korrigiert",
+    "ingredients": [
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Wodka",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Kaffeelikör",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "20",
+        "unit": "ml",
+        "ingredient": "Milch",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "",
+        "unit": "",
+        "ingredient": "Cola",
+        "note": "zum Auffüllen – Menge nicht angegeben"
+      }
+    ],
+    "steps": [
+      "Tumbler mit Eis füllen.",
+      "30ml Wodka, 30ml Kaffeelikör, 20ml Milch oder Sahne darüber gießen.",
+      "Mit Cola auffüllen.",
+      "Leicht umrühren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 21,
+    "name": "Cosmopolitan",
+    "status": "Korrigiert",
+    "ingredients": [
+      {
+        "qty": "40",
+        "unit": "ml",
+        "ingredient": "Wodka",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "15",
+        "unit": "ml",
+        "ingredient": "Cointreau",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Cranberrysaft",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "15",
+        "unit": "ml",
+        "ingredient": "Limettensaft",
+        "note": "Bisherige Zutatenliste"
+      }
+    ],
+    "steps": [
+      "Shaker mit Eis füllen.",
+      "40ml Wodka Citron, 15ml Cointreau, 15ml Limettensaft und 30ml Cranberrysaft darüber gießen.",
+      "Gut schütteln und ins Cocktailglas abseihen.",
+      "Mit Zitronenscheibe garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 22,
+    "name": "Cuba Libre",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "50",
+        "unit": "ml",
+        "ingredient": "Weißer Rum",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "120",
+        "unit": "ml",
+        "ingredient": "Cola",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Limettensaft",
+        "note": "Bisherige Zutatenliste"
+      }
+    ],
+    "steps": [
+      "Highball-Glas mit Eis auffüllen.",
+      "50ml leichten Rum und 120ml Cola darüber gießen.",
+      "30ml Limettensaft dazugeben.",
+      "Mit Limettenscheibe garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 23,
+    "name": "Culo A La Vida",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "1",
+        "unit": "TL",
+        "ingredient": "Zucker",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "15",
+        "unit": "ml",
+        "ingredient": "Limettensaft",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "120",
+        "unit": "ml",
+        "ingredient": "Cranberrysaft",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "60",
+        "unit": "ml",
+        "ingredient": "Weißer Rum",
+        "note": "Automatisch erkannt – prüfen"
+      }
+    ],
+    "steps": [
+      "1 TL Zucker ins Collins-Glas geben.",
+      "15ml Limettensaft dazugeben, sodass sich der Zucker auflöst.",
+      "Etwas Eiswürfel dazugeben.",
+      "120ml Cranberrysaft und 60ml leichten Rum darüber gießen.",
+      "Gut verrühren und mit Limettenstück garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 24,
+    "name": "Daiquiri",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "45",
+        "unit": "ml",
+        "ingredient": "Weißer Rum",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "25",
+        "unit": "ml",
+        "ingredient": "Limettensaft",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "15",
+        "unit": "ml",
+        "ingredient": "Zuckersirup",
+        "note": "Bisherige Zutatenliste"
+      }
+    ],
+    "steps": [
+      "Shaker mit Eis auffüllen.",
+      "45ml weißen Rum, 25ml Limettensaft und 15ml Zuckersirup darauf gießen.",
+      "Gut schütteln und ins Cocktailglas abseihen."
+    ],
+    "note": ""
+  },
+  {
+    "id": 25,
+    "name": "French 75",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Gin",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "15",
+        "unit": "ml",
+        "ingredient": "Zitronensaft",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "60",
+        "unit": "ml",
+        "ingredient": "Sekt",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "2",
+        "unit": "spritzer",
+        "ingredient": "Zuckersirup",
+        "note": "Zusätzlicher Vorschlag aus Anleitung – prüfen"
+      }
+    ],
+    "steps": [
+      "Shaker mit Eiswürfeln füllen.",
+      "30ml Gin, 15ml Zitronensaft, 2 Spritzer Zuckersirup.",
+      "Gut schütteln und ins Sektflöte füllen.",
+      "Mit 60ml Sekt auffüllen.",
+      "Mit Zitronen-Twist garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 26,
+    "name": "Gimlet",
+    "status": "Korrigiert",
+    "ingredients": [
+      {
+        "qty": "60",
+        "unit": "ml",
+        "ingredient": "Gin",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "15",
+        "unit": "ml",
+        "ingredient": "Limettensaft",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "15",
+        "unit": "ml",
+        "ingredient": "Zuckersirup (optional)",
+        "note": "Bisherige Zutatenliste"
+      }
+    ],
+    "steps": [
+      "Glas mit Eiswürfeln füllen.",
+      "60ml Gin und 15ml Limettensaft darüber geben.",
+      "Optional 15ml Zuckersirup dazugeben.",
+      "Verrühren und in gekühltes Cocktailglas abseihen.",
+      "Mit Limettenstück oder Limetten-Twist garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 27,
+    "name": "Gin and Sin",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Gin",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Zitronensaft",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Orangensaft",
+        "note": "Automatisch erkannt – prüfen"
+      }
+    ],
+    "steps": [
+      "Shaker mit Eiswürfeln füllen.",
+      "30ml Gin, 30ml Zitronensaft, 30ml Orangensaft und einen Spritzer Grenadine dazugeben.",
+      "Gut schütteln und ins Cocktailglas abseihen."
+    ],
+    "note": ""
+  },
+  {
+    "id": 28,
+    "name": "Gin Fizz",
+    "status": "Korrigiert",
+    "ingredients": [
+      {
+        "qty": "45",
+        "unit": "ml",
+        "ingredient": "Gin",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Zitronensaft",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "10",
+        "unit": "ml",
+        "ingredient": "Zuckersirup",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "",
+        "unit": "",
+        "ingredient": "Sodawasser",
+        "note": "Auffüllen, keine Mengenangabe"
+      }
+    ],
+    "steps": [
+      "Highball-Glas mit Eis füllen.",
+      "45ml Gin, 30ml Zitronensaft und 10ml Zuckersirup darüber gießen.",
+      "Mit Sodawasser auffüllen.",
+      "Mit Zitronenscheibe garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 29,
+    "name": "Gin Rickey",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "50",
+        "unit": "ml",
+        "ingredient": "Gin",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Limettensaft",
+        "note": "Automatisch erkannt – prüfen"
+      }
+    ],
+    "steps": [
+      "Highball-Glas mit Eis füllen.",
+      "50ml Gin und 30ml Limettensaft dazugeben und mit Sodawasser auffüllen.",
+      "Mit Limettenstück garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 30,
+    "name": "Highball",
+    "status": "Korrigiert",
+    "ingredients": [
+      {
+        "qty": "60",
+        "unit": "ml",
+        "ingredient": "Whisky",
+        "note": ""
+      },
+      {
+        "qty": "",
+        "unit": "",
+        "ingredient": "Ginger Ale",
+        "note": "Auffüllen, keine Mengenangabe."
+      }
+    ],
+    "steps": [
+      "Highball-Glas mit Eis füllen.",
+      "60ml Whisky darüber gießen und mit Ginger Ale auffüllen."
+    ],
+    "note": ""
+  },
+  {
+    "id": 34,
+    "name": "Jack and Coke",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "50",
+        "unit": "ml",
+        "ingredient": "Jack Daniel’s",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "150",
+        "unit": "ml",
+        "ingredient": "Cola",
+        "note": "Automatisch erkannt – prüfen"
+      }
+    ],
+    "steps": [
+      "Collins-Glas mit Eis füllen.",
+      "50 ml Jack Daniel’s oder anderen Whisky und 150 ml Cola darüber gießen.",
+      "Leicht umrühren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 35,
+    "name": "John Collins",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "45",
+        "unit": "ml",
+        "ingredient": "Gin",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Zitronensaft",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "15",
+        "unit": "ml",
+        "ingredient": "Zuckersirup",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "",
+        "unit": "",
+        "ingredient": "Mineralwasser",
+        "note": "zum Auffüllen – Menge nicht angegeben"
+      }
+    ],
+    "steps": [
+      "Highball-Glas mit Eis füllen.",
+      "45ml Gin, 30ml Zitronensaft, 15ml Zuckersirup dazugeben.",
+      "Mit Mineralwasser auffüllen und leicht umrühren.",
+      "Mit Zitronenscheibe und Cocktailkirsche garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 36,
+    "name": "Kamikaze",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Wodka",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Triple Sec",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Limettensaft",
+        "note": "Bisherige Zutatenliste"
+      }
+    ],
+    "steps": [
+      "Shaker mit Eiswürfeln füllen.",
+      "30ml Wodka, 30ml Triple Sec und 30ml Limettensaft darauf gießen.",
+      "Gut schütteln und ins Cocktailglas abseihen.",
+      "Mit Limettenstück garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 39,
+    "name": "Lemon Drop",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "50",
+        "unit": "ml",
+        "ingredient": "Wodka",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "25",
+        "unit": "ml",
+        "ingredient": "Zitronensaft",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "1",
+        "unit": "TL",
+        "ingredient": "Zuckersirup",
+        "note": "Automatisch erkannt – prüfen"
+      }
+    ],
+    "steps": [
+      "Shaker mit Eiswürfeln füllen.",
+      "50ml Wodka, 25ml Zitronensaft und 1 TL Zuckersirup darüber gießen.",
+      "Gut schütteln und ins Cocktailglas abseihen.",
+      "Mit Zitronen-Twist garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 40,
+    "name": "Long Beach Iced Tea",
+    "status": "Korrigiert",
+    "ingredients": [
+      {
+        "qty": "15",
+        "unit": "ml",
+        "ingredient": "Wodka",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "15",
+        "unit": "ml",
+        "ingredient": "Tequila",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "15",
+        "unit": "ml",
+        "ingredient": "Weißer Rum",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "15",
+        "unit": "ml",
+        "ingredient": "Cointreau oder Triple Sec",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "15",
+        "unit": "ml",
+        "ingredient": "Gin",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "25",
+        "unit": "ml",
+        "ingredient": "Zitronensaft",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Zuckersirup",
+        "note": "Bisherige Zutatenliste"
+      }
+    ],
+    "steps": [
+      "Highball-Glas mit Eis füllen.",
+      "je 15 ml Wodka, Tequila, weißen Rum, Cointreau (oder Triple Sec) und Gin dazugeben.",
+      "25ml Zitronensaft und 30ml Zuckersirup hinzufügen.",
+      "Mit einem Spritzer Cranberrysaft abrunden."
+    ],
+    "note": ""
+  },
+  {
+    "id": 41,
+    "name": "Long Island Iced Tea",
+    "status": "Korrigiert",
+    "ingredients": [
+      {
+        "qty": "15",
+        "unit": "ml",
+        "ingredient": "Wodka",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "15",
+        "unit": "ml",
+        "ingredient": "Tequila",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "15",
+        "unit": "ml",
+        "ingredient": "Weißer Rum",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "15",
+        "unit": "ml",
+        "ingredient": "Cointreau oder Triple Sec",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "15",
+        "unit": "ml",
+        "ingredient": "Gin",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "25",
+        "unit": "ml",
+        "ingredient": "Zitronensaft",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Zuckersirup",
+        "note": "Bisherige Zutatenliste"
+      }
+    ],
+    "steps": [
+      "Highball-Glas mit Eis füllen.",
+      "Jeweils 15ml Wodka, Tequila, weißen Rum, Cointreau (oder Triple Sec) und Gin dazu gießen.",
+      "25ml Zitronensaft und 30ml Zuckersirup hinzufügen.",
+      "Mit einem Spritzer Cola verfeinern."
+    ],
+    "note": ""
+  },
+  {
+    "id": 42,
+    "name": "Margarita",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "50",
+        "unit": "ml",
+        "ingredient": "Tequila",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Triple Sec",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "20",
+        "unit": "ml",
+        "ingredient": "Limettensaft",
+        "note": "Bisherige Zutatenliste"
+      }
+    ],
+    "steps": [
+      "Glasrand salzen.",
+      "50ml Tequila und 30ml Cointreau oder Triple Sec in den mit Eiswürfeln gefüllten Shaker gießen.",
+      "20ml Limettensaft hinzufügen.",
+      "Gut schütteln und ins Margarita-Glas abseihen.",
+      "Mit Limettenscheiben garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 44,
+    "name": "Martini Lemon Drop",
+    "status": "Korrigiert",
+    "ingredients": [
+      {
+        "qty": "25",
+        "unit": "ml",
+        "ingredient": "Wodka Citron",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "20",
+        "unit": "ml",
+        "ingredient": "Triple Sec",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "15",
+        "unit": "ml",
+        "ingredient": "Zitronensaft",
+        "note": "Automatisch erkannt – prüfen"
+      }
+    ],
+    "steps": [
+      "Shaker mit Eiswürfeln füllen.",
+      "25ml Wodka Citron, 20ml Triple Sec und 15ml Zitronensaft dazugeben.",
+      "Schütteln und in gekühltes Cocktailglas mit Zuckerrand abseihen.",
+      "Mit Zitronenscheibe garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 45,
+    "name": "Mimosa",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "75",
+        "unit": "ml",
+        "ingredient": "Sekt",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "75",
+        "unit": "ml",
+        "ingredient": "Orangensaft",
+        "note": "Bisherige Zutatenliste"
+      }
+    ],
+    "steps": [
+      "75ml Orangensaft und 75ml Sekt in ein Sektflöte geben.",
+      "Leicht umrühren und mit Orangen-Twist garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 47,
+    "name": "Mojito",
+    "status": "Korrigiert",
+    "ingredients": [
+      {
+        "qty": "40",
+        "unit": "ml",
+        "ingredient": "Weißer Rum",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Limettensaft",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "100",
+        "unit": "ml",
+        "ingredient": "Sodawasser",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "6",
+        "unit": "Stück",
+        "ingredient": "Minze",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "2",
+        "unit": "TL",
+        "ingredient": "Zucker",
+        "note": "Bisherige Zutatenliste"
+      }
+    ],
+    "steps": [
+      "6 Minzstiele und 2 TL Zucker in ein Highball-Glas geben.",
+      "30ml Limettensaft darüber gießen und die Minzstiele zerstoßen.",
+      "Glas mit Crushed Ice auffüllen.",
+      "40ml weißen Rum darauf gießen und mit 100ml Sodawasser auffüllen.",
+      "Mit Minzstiel garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 48,
+    "name": "Monkey Gland",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "50",
+        "unit": "ml",
+        "ingredient": "Gin",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Orangensaft",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "2",
+        "unit": "tropfen",
+        "ingredient": "Absinth",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "2",
+        "unit": "tropfen",
+        "ingredient": "Grenadine",
+        "note": "Automatisch erkannt – prüfen"
+      }
+    ],
+    "steps": [
+      "Shaker mit Eiswürfeln füllen.",
+      "50ml Gin, 30ml Orangensaft, 2 Tropfen Absinth und 2 Tropfen Grenadine dazugeben.",
+      "Schütteln und in Cocktailglas abseihen.",
+      "Mit Orangenschale garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 49,
+    "name": "Mudslide",
+    "status": "Korrigiert",
+    "ingredients": [
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Wodka",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Kaffeelikör",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Baileys",
+        "note": "Bisherige Zutatenliste"
+      }
+    ],
+    "steps": [
+      "Tumbler mit Eis füllen.",
+      "30ml Wodka, 30ml Kaffeelikör und 30ml Baileys darüber gießen.",
+      "Leicht umrühren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 50,
+    "name": "New York Sour",
+    "status": "Korrigiert",
+    "ingredients": [
+      {
+        "qty": "60",
+        "unit": "ml",
+        "ingredient": "Whisky",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "20",
+        "unit": "ml",
+        "ingredient": "Zuckersirup",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Zitronensaft",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "15",
+        "unit": "ml",
+        "ingredient": "Rotwein",
+        "note": "Bisherige Zutatenliste"
+      }
+    ],
+    "steps": [
+      "Geben Sie 60ml Rye Whiskey oder Bourbon, 20ml Zuckersirup und 30ml Zitronensaft in den Cocktail-Shaker.",
+      "(Optional) Wenn Sie Eiweiß hinzufügen möchten, geben Sie es hinzu und schütteln Sie es zunächst ohne Eis.",
+      "Eis hinzufügen und gut schütteln.",
+      "In ein mit Eis gefülltes Tumbler Glas gießen.",
+      "Vorsichtig mit 15ml trockenem Rotwein auffüllen.",
+      "Optional mit einer Zitronenschale garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 51,
+    "name": "Pink Lady",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "45",
+        "unit": "ml",
+        "ingredient": "Gin",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "15",
+        "unit": "ml",
+        "ingredient": "Grenadine",
+        "note": "Automatisch erkannt – prüfen"
+      }
+    ],
+    "steps": [
+      "Shaker mit Eiswürfeln füllen.",
+      "45ml Gin, 15ml Grenadine und ein Eiweiß dazugeben.",
+      "Gut schütteln und ins Cocktailglas abseihen.",
+      "Mit einer Kirsche garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 53,
+    "name": "Russian Spring Punch",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "25",
+        "unit": "ml",
+        "ingredient": "Wodka",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "25",
+        "unit": "ml",
+        "ingredient": "Zitronensaft",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "15",
+        "unit": "ml",
+        "ingredient": "Crème de Cassis",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "10",
+        "unit": "ml",
+        "ingredient": "Zuckersirup",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "",
+        "unit": "",
+        "ingredient": "Sekt",
+        "note": "zum Auffüllen – Menge nicht angegeben"
+      }
+    ],
+    "steps": [
+      "Shaker mit Eiswürfeln füllen.",
+      "25ml Wodka, 25ml Zitronensaft, 15ml Creme de Cassis und 10ml Zuckersirup dazugeben.",
+      "Schütteln und in Highball-Glas geben.",
+      "Mit Sekt auffüllen.",
+      "Mit Zitronenscheibe und a Brombeere garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 54,
+    "name": "Screwdriver",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "50",
+        "unit": "ml",
+        "ingredient": "Wodka",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "100",
+        "unit": "ml",
+        "ingredient": "Orangensaft",
+        "note": "Bisherige Zutatenliste"
+      }
+    ],
+    "steps": [
+      "Highball-Glas mit Eiswürfeln füllen.",
+      "50ml Wodka und 100ml Orangensaft darüber gießen.",
+      "Leicht umrühren und mit Orangenschale garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 55,
+    "name": "Sidecar",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "50",
+        "unit": "ml",
+        "ingredient": "Cognac",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Cointreau",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "15",
+        "unit": "ml",
+        "ingredient": "Zitronensaft",
+        "note": "Bisherige Zutatenliste"
+      }
+    ],
+    "steps": [
+      "Shaker mit Eis füllen.",
+      "50 ml Cognac oder Bourbon, 30 ml Cointreau und 15 ml Zitronensaft hinzugeben.",
+      "Gut schütteln und in ein Cocktailglas mit Zuckerrand abseihen.",
+      "Mit einer Zitronenzeste garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 56,
+    "name": "Silver Bullet",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Scotch Whisky",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "60",
+        "unit": "ml",
+        "ingredient": "Gin",
+        "note": "Automatisch erkannt – prüfen"
+      }
+    ],
+    "steps": [
+      "Shaker oder Glas mit Eis füllen.",
+      "30ml Scotch Whisky und 60ml Gin dazugeben.",
+      "Verrühren und ins Cocktailglas abseihen.",
+      "Mit Zitronen-Twist garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 57,
+    "name": "Sneaky Pete",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Roggenwhisky",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Kaffeelikör",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Milch",
+        "note": "Automatisch erkannt – prüfen"
+      }
+    ],
+    "steps": [
+      "Tumbler mit Eis füllen.",
+      "30 ml Roggenwhisky, 30 ml Kaffeelikör und 30 ml Milch oder Sahne hinzufügen.",
+      "Gut umrühren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 58,
+    "name": "Southside",
+    "status": "Korrigiert",
+    "ingredients": [
+      {
+        "qty": "60",
+        "unit": "ml",
+        "ingredient": "Gin",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "20",
+        "unit": "ml",
+        "ingredient": "Limettensaft",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "20",
+        "unit": "ml",
+        "ingredient": "Zuckersirup",
+        "note": "Automatisch erkannt – prüfen"
+      }
+    ],
+    "steps": [
+      "Shaker mit Eiswürfeln füllen.",
+      "60ml Gin, 20ml frischen Limettensaft, 20ml Zuckersirup darüber gießen.",
+      "Gut schütteln, einen Minzstiel dazugeben und nochmals vorsichtig schütteln um die Minze nicht kaputt zu machen.",
+      "Ins Cocktailglas abseihen und mit einem Minzblatt oder Minzstiel garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 59,
+    "name": "Southside (Variante)",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "60",
+        "unit": "ml",
+        "ingredient": "Gin",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "20",
+        "unit": "ml",
+        "ingredient": "Limettensaft",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "20",
+        "unit": "ml",
+        "ingredient": "Zuckersirup",
+        "note": "Automatisch erkannt – prüfen"
+      }
+    ],
+    "steps": [
+      "Shaker mit Eiswürfeln füllen.",
+      "60ml Gin, 20ml frischen Limettensaft, 20ml Zuckersirup darüber gießen.",
+      "Gut schütteln, einen Minzstiel dazugeben und nochmals vorsichtig schütteln um die Minze nicht kaput zu machen.",
+      "Ins Cocktailglas abseihen und mit einem Minzblatt oder Minzstiel garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 60,
+    "name": "Spritz Veneziano",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "60",
+        "unit": "ml",
+        "ingredient": "Sekt",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "40",
+        "unit": "ml",
+        "ingredient": "Aperol",
+        "note": "Bisherige Zutatenliste"
+      }
+    ],
+    "steps": [
+      "Tumbler mit Eis füllen.",
+      "60ml Sekt und 40ml Aperol dazugeben.",
+      "Einen Schuss Sodawasser draufgeben.",
+      "Mit Orangenschale garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 61,
+    "name": "Tequila Slammer",
+    "status": "Korrigiert",
+    "ingredients": [
+      {
+        "qty": "50",
+        "unit": "ml",
+        "ingredient": "Tequila",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "100",
+        "unit": "ml",
+        "ingredient": "7-Up",
+        "note": ""
+      }
+    ],
+    "steps": [
+      "50ml Tequila in Tumbler geben.",
+      "Von 50ml bis 100ml 7-Up oder anderes Soda dazugeben.",
+      "Halte eine Hand über das Glas, dann hau mit dem Glas auf eine harte Oberfläche sodass die Kohlensäure aufsteigt und trink es schnell."
+    ],
+    "note": ""
+  },
+  {
+    "id": 62,
+    "name": "Tequila Sunrise",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "45",
+        "unit": "ml",
+        "ingredient": "Tequila",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "90",
+        "unit": "ml",
+        "ingredient": "Orangensaft",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "15",
+        "unit": "ml",
+        "ingredient": "Grenadine",
+        "note": "Bisherige Zutatenliste"
+      }
+    ],
+    "steps": [
+      "Highball-Glas mit Eiswürfeln füllen.",
+      "45ml Tequila und 90ml Orangensaft darüber gießen.",
+      "15ml Grenadinesirup dazugeben, nicht umrühren!",
+      "Mit Orangenschale und Kirsche garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 63,
+    "name": "Tootsie Roll",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "45",
+        "unit": "ml",
+        "ingredient": "Kaffeelikör",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "45",
+        "unit": "ml",
+        "ingredient": "Orangensaft",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "45",
+        "unit": "ml",
+        "ingredient": "Wodka",
+        "note": "Automatisch erkannt – prüfen"
+      }
+    ],
+    "steps": [
+      "Shaker mit Eiswürfeln füllen.",
+      "45ml Kaffeelikör und 45ml Orangensaft dazugeben.",
+      "Für eine stärkere Variante 45ml Wodka hinzufügen.",
+      "Gut schütteln und ins Shooter-Glas abseihen."
+    ],
+    "note": ""
+  },
+  {
+    "id": 64,
+    "name": "Ward 8",
+    "status": "Korrigiert",
+    "ingredients": [
+      {
+        "qty": "60",
+        "unit": "ml",
+        "ingredient": "Roggenwhisky",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "15",
+        "unit": "ml",
+        "ingredient": "Zitronensaft",
+        "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "15",
+        "unit": "ml",
+        "ingredient": "Orangensaft",
+        "note": "Automatisch erkannt – prüfen"
+      }
+    ],
+    "steps": [
+      "Shaker mit Eiswürfeln füllen.",
+      "60ml Roggenwhisky, 15ml Zitronensaft, 15ml Orangensaft und einen Spritzer Grenadine dazugeben.",
+      "Gut schütteln und ins Cocktailglas abseihen.",
+      "Mit einer Kirsche garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 65,
+    "name": "Whisky Sour",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "45",
+        "unit": "ml",
+        "ingredient": "Bourbon Whisky",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Zitronensaft",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "15",
+        "unit": "ml",
+        "ingredient": "Zuckersirup",
+        "note": "Bisherige Zutatenliste"
+      }
+    ],
+    "steps": [
+      "Shaker mit Eis füllen.",
+      "45ml Bourbon Whisky, 30ml Zitronensaft, 15ml Zuckersirup und einen Spritzer Eiweiß dazugeben.",
+      "Gut schütteln und in ein Tumbler abseihen.",
+      "Mit Orangenschale und Cocktailkirsche garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 66,
+    "name": "White Lady",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "40",
+        "unit": "ml",
+        "ingredient": "Gin",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Triple Sec",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "20",
+        "unit": "ml",
+        "ingredient": "Zitronensaft",
+        "note": "Bisherige Zutatenliste"
+      }
+    ],
+    "steps": [
+      "Shaker mit Eiswürfeln füllen.",
+      "40ml Gin, 30ml Triple Sec und 20ml Zitronensaft dazugeben.",
+      "Schütteln und in Cocktailglas abseihen.",
+      "Mit Zitronenschale garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 67,
+    "name": "Mai Tai",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "40",
+        "unit": "ml",
+        "ingredient": "Weißer Rum",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "20",
+        "unit": "ml",
+        "ingredient": "Dunkler Rum",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "15",
+        "unit": "ml",
+        "ingredient": "Orangener Curaçao",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "15",
+        "unit": "ml",
+        "ingredient": "Mandelsirup",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "10",
+        "unit": "ml",
+        "ingredient": "Limettensaft",
+        "note": "Bisherige Zutatenliste"
+      }
+    ],
+    "steps": [
+      "Shaker mit Eis füllen.",
+      "40ml weißen Rum, 20ml dunklen Rum und 15ml orangenen Curaçao darüber gießen.",
+      "15ml Mandelsirup und 10ml Limettensaft hinzugeben.",
+      "Gut schütteln und ins Highball-Glas abseihen.",
+      "Mit Ananasspieß oder Limettenschale garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 68,
+    "name": "Bay Breeze",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "40",
+        "unit": "ml",
+        "ingredient": "Wodka",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "90",
+        "unit": "ml",
+        "ingredient": "Cranberrysaft",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Ananassaft",
+        "note": "Bisherige Zutatenliste"
+      }
+    ],
+    "steps": [
+      "Highball-Glas mit Eis füllen.",
+      "40ml Wodka, 90ml Cranberrysaft und 30ml Ananassaft darüber gießen.",
+      "Umrühren und mit Limettenstück garnieren."
+    ],
+    "note": ""
+  },
+  {
+    "id": 69,
+    "name": "Pina Colada",
+    "status": "Korrekt",
+    "ingredients": [
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Rum",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "30",
+        "unit": "ml",
+        "ingredient": "Kokosnusscreme",
+        "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "90",
+        "unit": "ml",
+        "ingredient": "Ananassaft",
+        "note": "Bisherige Zutatenliste"
+      }
+    ],
+    "steps": [
+      "Shaker oder Mixer mit Crushed Ice auffüllen.",
+      "30ml Rum, 30ml Kokosnusscreme und 90ml Ananassaft darüber gießen.",
+      "Schütteln oder rühren bis es cremig ist und in ein gekühltes Glas geben.",
+      "Mit Ananasstück und Cocktailkirsche garnieren."
+    ],
+    "note": ""
+  }
+]
