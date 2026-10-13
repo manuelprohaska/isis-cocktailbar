@@ -16,4 +16,5 @@ Es werden ausschließlich die 56 aktiven Rezepte ausgeliefert. Die geprüften Te
 - Die Zufallsauswahl vermeidet bei mehreren Treffern eine unmittelbare Wiederholung.
 - Der Portionswert ist pro Cocktail getrennt. Bei mehreren Cocktails weist die App darauf hin, dass die freigegebenen Zubereitungsschritte ein Glas beschreiben.
 - Der Gin-Filter erkennt `Gin` als eigenes Wort und verwechselt es nicht mehr mit `Ginger Beer`.
-- Die Rezepte und Bilddateien stammen unverändert aus dem geprüften Version-3-Paket.
+- Die Rezepte und Infotexte stammen unverändert aus dem geprüften Version-3-Paket.
+- Alle 56 Cocktailfotos sind als bereinigte SVG-Dateien enthalten. Bei 16 Bildern werden Textreste oben und bei 31 Bildern Textreste unten auf weißem Grund abgedeckt. Die Cocktailmotive bleiben erhalten.

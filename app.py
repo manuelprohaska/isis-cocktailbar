@@ -6,6 +6,10 @@ ROOT=Path(__file__).resolve().parent
 RECIPES=json.loads((ROOT/'recipes.json').read_text(encoding='utf-8'))
 SPIRITS=['Wodka','Gin','Rum','Tequila','Whisky','Bourbon','Cognac','Brandy','Cachaça','Sekt / Prosecco','Aperol','Andere Liköre']
 
+def show_photo(recipe):
+    photo=ROOT/'assets'/f"photo_{recipe['id']:02d}.svg"
+    if photo.exists():st.image(photo.read_text(encoding='utf-8'),use_container_width=True)
+
 def spirit_tags(recipe):
     blob=' '.join(x['ingredient'].lower() for x in recipe['ingredients'])
     tags=[]
@@ -69,8 +73,7 @@ if rec:
     st.divider();st.markdown(f"## 🍹 {rec['name']}")
     left,right=st.columns([1,1.15],gap='large')
     with left:
-        photo=ROOT/'assets'/f"photo_{rec['id']:02d}.webp"
-        if photo.exists():st.image(str(photo),use_container_width=True)
+        show_photo(rec)
         info=ROOT/'assets'/f"info_{rec['id']:02d}.webp"
         if info.exists():
             st.caption('Über diesen Cocktail')
@@ -99,8 +102,7 @@ for off in range(0,len(matched),3):
     for col,recipe in zip(cols,matched[off:off+3]):
         with col:
             with st.container(border=True):
-                photo=ROOT/'assets'/f"photo_{recipe['id']:02d}.webp"
-                if photo.exists():st.image(str(photo),use_container_width=True)
+                show_photo(recipe)
                 st.markdown(f"#### {recipe['name']}")
                 label=' · '.join(spirit_tags(recipe)[:3]) or 'Cocktail'
                 st.caption(label)

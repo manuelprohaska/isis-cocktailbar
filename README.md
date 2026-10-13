@@ -3,10 +3,10 @@
 ## Inhalt
 - `app.py`: Streamlit-Gäste-App, elegante Dunkel/Gold-Optik
 - `recipes.json`: 56 als **Korrekt** oder **Korrigiert** markierte Rezepte
-- `assets/`: zugeschnittene Bilder und Infotexte der Original-Screenshots
+- `assets/`: bereinigte Cocktailfotos mit reinweißem Rand sowie Infotexte der Original-Screenshots
 - `requirements.txt`, `.streamlit/config.toml`: Hosting-Konfiguration
 
-14 in der Prüfung als **Entfernt** markierte Rezepte werden nicht angezeigt. Rezeptschritte und Zutaten stammen aus `isi_rezeptpruefung_v3.json`. Die originalen Rezeptfotos bleiben erhalten. Daten sind nach Prüfung unverändert übernommen; erklärende Automatik-Hinweise sind nicht Teil der Gästeanzeige.
+14 in der Prüfung als **Entfernt** markierte Rezepte werden nicht angezeigt. Rezeptschritte und Zutaten stammen aus `isi_rezeptpruefung_v3.json`. Die Motive der originalen Rezeptfotos bleiben erhalten; störende Textreste am oberen oder unteren Bildrand sind weiß abgedeckt. Daten sind nach Prüfung unverändert übernommen; erklärende Automatik-Hinweise sind nicht Teil der Gästeanzeige.
 
 ## Start
 ```bash
@@ -15,14 +15,14 @@ streamlit run app.py
 ```
 
 ## Bestehende Live-App aktualisieren
-Die Live-App ist mit dem GitHub-Repository `manuelprohaska/isis-cocktailbar` verbunden. Die benötigten Bilddateien liegen dort bereits. Für eine erneute Aktualisierung der App reichen daher drei Dateien:
+Die Live-App ist mit dem GitHub-Repository `manuelprohaska/isis-cocktailbar` verbunden. Die bereinigten Foto-Dateien sind SVG-Dateien im Ordner `assets/`.
 
 1. ZIP entpacken. **Nicht das ZIP selbst** bei GitHub hochladen.
-2. Im Repository auf dem Branch `main` über **Add file → Upload files** die entpackten Dateien `app.py`, `recipes.json` und `requirements.txt` hochladen. Vorhandene Dateien gleichen Namens ersetzen.
+2. Im Repository auf dem Branch `main` über **Add file → Upload files** die entpackte `app.py` hochladen. Falls die bereinigten Fotos noch fehlen, im Ordner `assets/` zusätzlich alle `photo_*.svg` hochladen.
 3. Die Änderung mit **Commit changes** speichern. `app.py` bleibt die Hauptdatei.
 4. Die Live-App erneut öffnen oder aktualisieren. Oben müssen **56 geprüfte Rezepte insgesamt** stehen.
 
-Für ein neues, leeres Repository müssen zusätzlich `assets/` und `.streamlit/config.toml` in derselben Ordnerstruktur hochgeladen werden. Die Datei `QA_SUMMARY.md` dient nur der Dokumentation.
+Für ein neues, leeres Repository müssen zusätzlich `recipes.json`, `requirements.txt`, `assets/` und `.streamlit/config.toml` in derselben Ordnerstruktur hochgeladen werden. Die Datei `QA_SUMMARY.md` dient nur der Dokumentation.
 
 ## Bedienung
 Auf Mobilgeräten Filter nach Spirituosen, Zutaten oder Cocktailname auswählen. Cocktailkarte anklicken, Menge skalieren und Zubereitung lesen. Der Surprise-Button zeigt sofort ein zufälliges Rezept aus den gefilterten Ergebnissen. Die Mengenliste skaliert; die freigegebenen Zubereitungsschritte beschreiben weiterhin einen Cocktail.
