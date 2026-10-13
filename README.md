@@ -18,7 +18,7 @@ streamlit run app.py
 Die Live-App ist mit dem GitHub-Repository `manuelprohaska/isis-cocktailbar` verbunden. Die bereinigten Foto-Dateien sind SVG-Dateien im Ordner `assets/`.
 
 1. ZIP entpacken. **Nicht das ZIP selbst** bei GitHub hochladen.
-2. Im Repository auf dem Branch `main` über **Add file → Upload files** die entpackte `app.py` hochladen. Falls die bereinigten Fotos noch fehlen, im Ordner `assets/` zusätzlich alle `photo_*.svg` hochladen.
+2. Im Repository auf dem Branch `main` über **Add file → Upload files** die entpackten Dateien `app.py` und `requirements.txt` hochladen. Falls die bereinigten Fotos noch fehlen, im Ordner `assets/` zusätzlich alle `photo_*.svg` hochladen.
 3. Die Änderung mit **Commit changes** speichern. `app.py` bleibt die Hauptdatei.
 4. Die Live-App erneut öffnen oder aktualisieren. Oben müssen **56 geprüfte Rezepte insgesamt** stehen.
 
