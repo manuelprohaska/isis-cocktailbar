@@ -3,7 +3,7 @@ import json, random, re
 from pathlib import Path
 
 ROOT=Path(__file__).resolve().parent
-RECIPES=json.loads((ROOT/'recipes.json').read_text(encoding='utf-8'))
+RECIPES=sorted(json.loads((ROOT/'recipes.json').read_text(encoding='utf-8')),key=lambda recipe:recipe['name'].casefold())
 SPIRITS=['Wodka','Gin','Rum','Tequila','Whisky','Bourbon','Cognac','Brandy','Cachaça','Sekt / Prosecco','Aperol','Andere Liköre']
 
 def show_photo(recipe):
