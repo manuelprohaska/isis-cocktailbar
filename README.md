@@ -15,12 +15,12 @@ streamlit run app.py
 ```
 
 ## Bestehende Live-App aktualisieren
-Die Live-App ist mit dem GitHub-Repository `manuelprohaska/isis-cocktailbar` verbunden. Die bereinigten Foto-Dateien und die 20 wiederhergestellten Infotexte sind SVG-Dateien im Ordner `assets/`.
+Die Live-App ist mit dem GitHub-Repository `manuelprohaska/isis-cocktailbar` verbunden. Die bereinigten Foto-Dateien und die 53 vollständigen Infotexte sind SVG-Dateien im Ordner `assets/`.
 
 1. ZIP entpacken. **Nicht das ZIP selbst** bei GitHub hochladen.
 2. Im Repository auf dem Branch `main` über **Add file → Upload files** die entpackten Dateien `app.py`, `recipes.json`, `requirements.txt`, `.streamlit/config.toml` und den gesamten Ordner `assets/` in derselben Ordnerstruktur hochladen. Bestehende gleichnamige Dateien überschreiben.
 3. Die Änderung mit **Commit changes** speichern. `app.py` bleibt die Hauptdatei.
-4. Die Live-App erneut öffnen oder aktualisieren. Oben müssen **56 geprüfte Rezepte insgesamt** stehen. Appletini und Margarita zeigen unter „Über diesen Cocktail“ wieder den vollständigen Satzanfang.
+4. Die Live-App erneut öffnen oder aktualisieren. Oben müssen **56 geprüfte Rezepte insgesamt** stehen. Appletini, Margarita und Tequila Sunrise zeigen unter „Über diesen Cocktail“ wieder den vollständigen Satzanfang.
 
 Die Datei `QA_SUMMARY.md` dient nur der Dokumentation.
 

@@ -19,10 +19,10 @@ Es werden ausschließlich die 56 aktiven Rezepte ausgeliefert. Die geprüften Te
 - Der Gin-Filter erkennt `Gin` als eigenes Wort und verwechselt es nicht mehr mit `Ginger Beer`.
 - Die Rezepte stammen aus dem geprüften Version-3-Paket. Die Infotexte stammen aus den Original-Screenshots.
 - Alle 56 Cocktailfotos sind als bereinigte SVG-Dateien enthalten. Bei 16 Bildern werden Textreste oben und bei 31 Bildern Textreste unten auf weißem Grund abgedeckt. Die Cocktailmotive bleiben erhalten.
-- 20 zuvor am oberen Rand abgeschnittene Erklärungsausschnitte zeigen jetzt den vollständigen Absatz aus dem jeweiligen Original-Screenshot. Fünf leere Erklärungsausschnitte werden nicht mehr angezeigt. Die übrigen 31 Erklärungen sind an beiden Rändern vollständig.
+- Alle 53 vorhandenen Erklärungen zeigen jetzt den vollständigen Absatz aus dem jeweiligen Original-Screenshot. Drei Originale haben keinen Erklärungstext; dort wird der Bereich ausgeblendet.
 
 ## Drei getrennte Prüfdurchgänge
 
 1. **Fotos:** Alle 56 aktiven Fotodateien und ihre SVG-Masken gegen die Originalbilder geprüft. Die auffälligen Ränder wurden weiß abgedeckt; Gin and Sin und Mimosa bleiben ohne Maske.
-2. **„Über diesen Cocktail“:** Alle 56 Erklärungsausschnitte an Ober- und Unterkante geprüft. 20 angeschnittene Anfänge wiederhergestellt, fünf vollständig leere Ausschnitte ausgeblendet, 31 vollständige Ausschnitte beibehalten.
+2. **„Über diesen Cocktail“:** Alle 56 Original-Screenshots auf den ganzen Absatz geprüft. 53 Erklärungen vollständig aus dem Original angezeigt; drei ohne vorhandenen Text ausgeblendet. Dadurch verschwinden auch unvollständige Satzanfänge mit scheinbar sauberem Bildrand, etwa bei Tequila Sunrise.
 3. **Funktion:** Anzahl 56, Rezeptaufruf und Sprung zum Rezept, Filter, Überraschung und Portionsmengen getrennt geprüft.
