@@ -1093,44 +1093,6 @@
     "note": ""
   },
   {
-    "id": 48,
-    "name": "Monkey Gland",
-    "status": "Korrekt",
-    "ingredients": [
-      {
-        "qty": "50",
-        "unit": "ml",
-        "ingredient": "Gin",
-        "note": "Automatisch erkannt – prüfen"
-      },
-      {
-        "qty": "30",
-        "unit": "ml",
-        "ingredient": "Orangensaft",
-        "note": "Automatisch erkannt – prüfen"
-      },
-      {
-        "qty": "2",
-        "unit": "tropfen",
-        "ingredient": "Absinth",
-        "note": "Automatisch erkannt – prüfen"
-      },
-      {
-        "qty": "2",
-        "unit": "tropfen",
-        "ingredient": "Grenadine",
-        "note": "Automatisch erkannt – prüfen"
-      }
-    ],
-    "steps": [
-      "Shaker mit Eiswürfeln füllen.",
-      "50ml Gin, 30ml Orangensaft, 2 Tropfen Absinth und 2 Tropfen Grenadine dazugeben.",
-      "Schütteln und in Cocktailglas abseihen.",
-      "Mit Orangenschale garnieren."
-    ],
-    "note": ""
-  },
-  {
     "id": 49,
     "name": "Mudslide",
     "status": "Korrigiert",
