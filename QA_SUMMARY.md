@@ -16,4 +16,5 @@ Jack and Coke, Between The Sheets, Buck’s Fizz, Gin Rickey, Highball, Mimosa, 
 - Nach „Rezept ansehen“ springt die Ansicht zum geöffneten Rezept.
 - Nach „← Cocktailauswahl“ springt die Ansicht zur Karte des eben angesehenen Cocktails zurück.
 - Filter, Zufallsauswahl und Portionsrechner bleiben erhalten.
+- Beim Mai Tai sind Zutatenliste und Zubereitung auf 15 ml Cointreau statt 15 ml orangenen Curaçao abgestimmt.
 
