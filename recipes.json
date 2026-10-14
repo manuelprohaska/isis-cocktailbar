@@ -25,38 +25,6 @@
     "note": ""
   },
   {
-    "id": 2,
-    "name": "Appletini",
-    "status": "Korrekt",
-    "ingredients": [
-      {
-        "qty": "40",
-        "unit": "ml",
-        "ingredient": "Wodka",
-        "note": "Bisherige Zutatenliste"
-      },
-      {
-        "qty": "15",
-        "unit": "ml",
-        "ingredient": "Apfelschnaps",
-        "note": "Bisherige Zutatenliste"
-      },
-      {
-        "qty": "15",
-        "unit": "ml",
-        "ingredient": "Cointreau",
-        "note": "Bisherige Zutatenliste"
-      }
-    ],
-    "steps": [
-      "Glas mit Eiswürfeln füllen.",
-      "40ml Wodka, 15ml Apfelschnaps und 15ml Cointreau darüber gießen.",
-      "Gut umrühren und in gekühltes Cocktailglas abseihen.",
-      "Mit einer Apfelscheibe garnieren."
-    ],
-    "note": ""
-  },
-  {
     "id": 3,
     "name": "B-52",
     "status": "Korrigiert",
@@ -1221,46 +1189,6 @@
     "note": ""
   },
   {
-    "id": 50,
-    "name": "New York Sour",
-    "status": "Korrigiert",
-    "ingredients": [
-      {
-        "qty": "60",
-        "unit": "ml",
-        "ingredient": "Whisky",
-        "note": "Bisherige Zutatenliste"
-      },
-      {
-        "qty": "20",
-        "unit": "ml",
-        "ingredient": "Zuckersirup",
-        "note": "Bisherige Zutatenliste"
-      },
-      {
-        "qty": "30",
-        "unit": "ml",
-        "ingredient": "Zitronensaft",
-        "note": "Bisherige Zutatenliste"
-      },
-      {
-        "qty": "15",
-        "unit": "ml",
-        "ingredient": "Rotwein",
-        "note": "Bisherige Zutatenliste"
-      }
-    ],
-    "steps": [
-      "Geben Sie 60ml Rye Whiskey oder Bourbon, 20ml Zuckersirup und 30ml Zitronensaft in den Cocktail-Shaker.",
-      "(Optional) Wenn Sie Eiweiß hinzufügen möchten, geben Sie es hinzu und schütteln Sie es zunächst ohne Eis.",
-      "Eis hinzufügen und gut schütteln.",
-      "In ein mit Eis gefülltes Tumbler Glas gießen.",
-      "Vorsichtig mit 15ml trockenem Rotwein auffüllen.",
-      "Optional mit einer Zitronenschale garnieren."
-    ],
-    "note": ""
-  },
-  {
     "id": 51,
     "name": "Pink Lady",
     "status": "Korrekt",
@@ -1283,51 +1211,6 @@
       "45ml Gin, 15ml Grenadine und ein Eiweiß dazugeben.",
       "Gut schütteln und ins Cocktailglas abseihen.",
       "Mit einer Kirsche garnieren."
-    ],
-    "note": ""
-  },
-  {
-    "id": 53,
-    "name": "Russian Spring Punch",
-    "status": "Korrekt",
-    "ingredients": [
-      {
-        "qty": "25",
-        "unit": "ml",
-        "ingredient": "Wodka",
-        "note": "Automatisch erkannt – prüfen"
-      },
-      {
-        "qty": "25",
-        "unit": "ml",
-        "ingredient": "Zitronensaft",
-        "note": "Automatisch erkannt – prüfen"
-      },
-      {
-        "qty": "15",
-        "unit": "ml",
-        "ingredient": "Crème de Cassis",
-        "note": "Automatisch erkannt – prüfen"
-      },
-      {
-        "qty": "10",
-        "unit": "ml",
-        "ingredient": "Zuckersirup",
-        "note": "Automatisch erkannt – prüfen"
-      },
-      {
-        "qty": "",
-        "unit": "",
-        "ingredient": "Sekt",
-        "note": "zum Auffüllen – Menge nicht angegeben"
-      }
-    ],
-    "steps": [
-      "Shaker mit Eiswürfeln füllen.",
-      "25ml Wodka, 25ml Zitronensaft, 15ml Creme de Cassis und 10ml Zuckersirup dazugeben.",
-      "Schütteln und in Highball-Glas geben.",
-      "Mit Sekt auffüllen.",
-      "Mit Zitronenscheibe und a Brombeere garnieren."
     ],
     "note": ""
   },
@@ -1385,63 +1268,6 @@
       "50 ml Cognac oder Bourbon, 30 ml Cointreau und 15 ml Zitronensaft hinzugeben.",
       "Gut schütteln und in ein Cocktailglas mit Zuckerrand abseihen.",
       "Mit einer Zitronenzeste garnieren."
-    ],
-    "note": ""
-  },
-  {
-    "id": 56,
-    "name": "Silver Bullet",
-    "status": "Korrekt",
-    "ingredients": [
-      {
-        "qty": "30",
-        "unit": "ml",
-        "ingredient": "Scotch Whisky",
-        "note": "Automatisch erkannt – prüfen"
-      },
-      {
-        "qty": "60",
-        "unit": "ml",
-        "ingredient": "Gin",
-        "note": "Automatisch erkannt – prüfen"
-      }
-    ],
-    "steps": [
-      "Shaker oder Glas mit Eis füllen.",
-      "30ml Scotch Whisky und 60ml Gin dazugeben.",
-      "Verrühren und ins Cocktailglas abseihen.",
-      "Mit Zitronen-Twist garnieren."
-    ],
-    "note": ""
-  },
-  {
-    "id": 57,
-    "name": "Sneaky Pete",
-    "status": "Korrekt",
-    "ingredients": [
-      {
-        "qty": "30",
-        "unit": "ml",
-        "ingredient": "Roggenwhisky",
-        "note": "Automatisch erkannt – prüfen"
-      },
-      {
-        "qty": "30",
-        "unit": "ml",
-        "ingredient": "Kaffeelikör",
-        "note": "Automatisch erkannt – prüfen"
-      },
-      {
-        "qty": "30",
-        "unit": "ml",
-        "ingredient": "Milch",
-        "note": "Automatisch erkannt – prüfen"
-      }
-    ],
-    "steps": [
-      "Tumbler mit Eis füllen.",
-      "30 ml Roggenwhisky, 30 ml Kaffeelikör und 30 ml Milch oder Sahne hinzufügen.",
-      "Gut umrühren."
     ],
     "note": ""
   },
@@ -1621,38 +1447,6 @@
       "45ml Kaffeelikör und 45ml Orangensaft dazugeben.",
       "Für eine stärkere Variante 45ml Wodka hinzufügen.",
       "Gut schütteln und ins Shooter-Glas abseihen."
-    ],
-    "note": ""
-  },
-  {
-    "id": 64,
-    "name": "Ward 8",
-    "status": "Korrigiert",
-    "ingredients": [
-      {
-        "qty": "60",
-        "unit": "ml",
-        "ingredient": "Roggenwhisky",
-        "note": "Automatisch erkannt – prüfen"
-      },
-      {
-        "qty": "15",
-        "unit": "ml",
-        "ingredient": "Zitronensaft",
-        "note": "Automatisch erkannt – prüfen"
-      },
-      {
-        "qty": "15",
-        "unit": "ml",
-        "ingredient": "Orangensaft",
-        "note": "Automatisch erkannt – prüfen"
-      }
-    ],
-    "steps": [
-      "Shaker mit Eiswürfeln füllen.",
-      "60ml Roggenwhisky, 15ml Zitronensaft, 15ml Orangensaft und einen Spritzer Grenadine dazugeben.",
-      "Gut schütteln und ins Cocktailglas abseihen.",
-      "Mit einer Kirsche garnieren."
     ],
     "note": ""
   },
