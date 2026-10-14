@@ -1,6 +1,6 @@
 # Isi’s Cocktailbar – 40 Cocktails zum 40er (Version 7)
 
-Die App enthält genau 40 für die Feier ausgewählte Rezepte, 40 bereinigte Cocktailfotos und 38 Infotexte aus den Original-Screenshots. Die acht zuletzt gestrichenen Cocktails sind Jack and Coke, Between The Sheets, Buck’s Fizz, Gin Rickey, Highball, Mimosa, Screwdriver und Southside (Variante). Die zuvor auf Wunsch entfernten acht Rezepte bleiben ebenfalls ausgeschlossen.
+Die App enthält genau 40 für die Feier ausgewählte Rezepte, 40 bereinigte Cocktailfotos und 38 Infotexte aus den Original-Screenshots. Die Cocktailkarte wird nach Namen sortiert, auch wenn weitere Rezepte später zur Datendatei hinzukommen. Die acht zuletzt gestrichenen Cocktails sind Jack and Coke, Between The Sheets, Buck’s Fizz, Gin Rickey, Highball, Mimosa, Screwdriver und Southside (Variante). Die zuvor auf Wunsch entfernten acht Rezepte bleiben ebenfalls ausgeschlossen.
 
 ## Bedienung
 
