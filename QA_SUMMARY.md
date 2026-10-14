@@ -12,6 +12,7 @@ Jack and Coke, Between The Sheets, Buck’s Fizz, Gin Rickey, Highball, Mimosa, 
 ## Funktionsänderungen
 
 - Die Zählzeile „passende Cocktails / geprüfte Rezepte insgesamt“ ist entfernt.
+- Die Karte wird unabhängig von der Reihenfolge in `recipes.json` alphabetisch nach Namen angezeigt.
 - Nach „Rezept ansehen“ springt die Ansicht zum geöffneten Rezept.
 - Nach „← Cocktailauswahl“ springt die Ansicht zur Karte des eben angesehenen Cocktails zurück.
 - Filter, Zufallsauswahl und Portionsrechner bleiben erhalten.
