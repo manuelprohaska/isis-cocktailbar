@@ -100,7 +100,7 @@ if rec:
         if servings>1:
             st.caption('Die Schritte unten beschreiben einen Cocktail. Für mehrere Cocktails gelten die berechneten Mengen in der Zutatenliste oben.')
         for ix,step in enumerate(rec['steps'],1):st.markdown(f'**{ix}.** {step}')
-        st.caption('Mengen werden für die gewünschte Anzahl skaliert. Bei Alternativen (z. B. Honig ODER Sirup) jeweils nur eine Variante verwenden. Eis, Garnitur und optionale Zutaten bitte zusätzlich nach Anleitung beachten.')
+        st.caption('Mengen werden für die gewünschte Anzahl skaliert. Bei Alternativen jeweils nur eine Variante verwenden. Eis, Garnitur und optionale Zutaten bitte zusätzlich nach Anleitung beachten.')
         if rec['name']=='B-52': st.warning('Sicherheit: Brennende Getränke niemals trinken. Vor dem Trinken vollständig löschen und abkühlen lassen; am besten auf das Entzünden verzichten.')
         if rec['name']=='Tequila Slammer':st.info('Gläser nicht auf harte Oberflächen schlagen: Verletzungs- und Glasbruchgefahr.')
     if st.button('← Cocktailauswahl'):
@@ -126,3 +126,4 @@ for off in range(0,len(matched),3):
                     st.session_state.scroll_pending=True
                     st.rerun()
 st.divider();st.caption('Isi’s Cocktailbar · Mit Liebe zu deinem 40er · Bitte verantwortungsvoll genießen. 🍸')
+
