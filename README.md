@@ -1,12 +1,12 @@
-# Isi’s Cocktailbar – korrigierte Gäste-Version (Version 3)
+# Isi’s Cocktailbar – Einkaufsauswahl für 10 Gäste (Version 4)
 
 ## Inhalt
 - `app.py`: Streamlit-Gäste-App, elegante Dunkel/Gold-Optik
-- `recipes.json`: 56 als **Korrekt** oder **Korrigiert** markierte Rezepte
+- `recipes.json`: 50 für die Feier ausgewählte Rezepte
 - `assets/`: bereinigte Cocktailfotos mit reinweißem Rand sowie vollständige Infotexte der Original-Screenshots
 - `requirements.txt`, `.streamlit/config.toml`: Hosting-Konfiguration
 
-14 in der Prüfung als **Entfernt** markierte Rezepte werden nicht angezeigt. Rezeptschritte und Zutaten stammen aus `isi_rezeptpruefung_v3.json`. Die Motive der originalen Rezeptfotos bleiben erhalten; störende Textreste am oberen oder unteren Bildrand sind weiß abgedeckt. Daten sind nach Prüfung unverändert übernommen; erklärende Automatik-Hinweise sind nicht Teil der Gästeanzeige.
+14 in der Rezeptprüfung als **Entfernt** markierte Rezepte werden nicht angezeigt. Zusätzlich wurden auf Wunsch sechs Cocktails gestrichen, weil Apfelschnaps, Crème de Cassis, Scotch Whisky, Roggenwhisky und Rotwein nicht eingekauft werden. Rezeptschritte und Zutaten der übrigen 50 stammen unverändert aus `isi_rezeptpruefung_v3.json`. Die Motive der originalen Rezeptfotos bleiben erhalten; störende Textreste am oberen oder unteren Bildrand sind weiß abgedeckt.
 
 ## Start
 ```bash
@@ -15,12 +15,12 @@ streamlit run app.py
 ```
 
 ## Bestehende Live-App aktualisieren
-Die Live-App ist mit dem GitHub-Repository `manuelprohaska/isis-cocktailbar` verbunden. Die bereinigten Foto-Dateien und die 53 vollständigen Infotexte sind SVG-Dateien im Ordner `assets/`.
+Die Live-App ist mit dem GitHub-Repository `manuelprohaska/isis-cocktailbar` verbunden. Die 50 bereinigten Foto-Dateien und 48 vollständigen Infotexte sind SVG-Dateien im Ordner `assets/`.
 
 1. ZIP entpacken. **Nicht das ZIP selbst** bei GitHub hochladen.
 2. Im Repository auf dem Branch `main` über **Add file → Upload files** die entpackten Dateien `app.py`, `recipes.json`, `requirements.txt`, `.streamlit/config.toml` und den gesamten Ordner `assets/` in derselben Ordnerstruktur hochladen. Bestehende gleichnamige Dateien überschreiben.
 3. Die Änderung mit **Commit changes** speichern. `app.py` bleibt die Hauptdatei.
-4. Die Live-App erneut öffnen oder aktualisieren. Oben müssen **56 geprüfte Rezepte insgesamt** stehen. Appletini, Margarita und Tequila Sunrise zeigen unter „Über diesen Cocktail“ wieder den vollständigen Satzanfang.
+4. Die Live-App erneut öffnen oder aktualisieren. Oben müssen **50 geprüfte Rezepte insgesamt** stehen. Margarita und Tequila Sunrise zeigen unter „Über diesen Cocktail“ den vollständigen Absatz.
 
 Die Datei `QA_SUMMARY.md` dient nur der Dokumentation.
 
@@ -32,3 +32,4 @@ Auf Mobilgeräten Filter nach Spirituosen, Zutaten oder Cocktailname auswählen.
 - Einige von der Nutzerprüfung freigegebene Listen nennen nicht alle Garnituren oder Alternativen separat; die Zubereitung enthält weitere Hinweise.
 - Der B-52-Schritt aus den freigegebenen Daten enthält eine Anweisung zum Trinken brennender Flüssigkeit; die App ergänzt deswegen ausdrücklich einen Sicherheitshinweis, keine brennenden Getränke zu trinken.
 - Keine Einkaufsliste und keine Bearbeitungsmöglichkeit für Gäste.
+
