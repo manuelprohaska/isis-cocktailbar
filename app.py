@@ -43,6 +43,8 @@ if 'selected' not in st.session_state: st.session_state.selected=None
 if 'surprise_id' not in st.session_state: st.session_state.surprise_id=None
 if 'scroll_token' not in st.session_state: st.session_state.scroll_token=0
 if 'scroll_pending' not in st.session_state: st.session_state.scroll_pending=False
+if 'return_to_id' not in st.session_state: st.session_state.return_to_id=None
+if 'return_scroll_token' not in st.session_state: st.session_state.return_scroll_token=0
 
 a,b=st.columns([1,1])
 with a: selected_spirits=st.multiselect('🍾 Spirituosen auswählen',SPIRITS,placeholder='Alle Spirituosen')
@@ -59,7 +61,6 @@ def matches(recipe):
     return True
 
 matched=[r for r in RECIPES if matches(r)]
-st.caption(f'🍹 {len(matched)} passende Cocktails · {len(RECIPES)} geprüfte Rezepte insgesamt')
 if st.button('🎲 Surprise me, Isi!'):
     if matched:
         alternatives=[r for r in matched if r['id']!=st.session_state.selected]
@@ -104,6 +105,8 @@ if rec:
         if rec['name']=='B-52': st.warning('Sicherheit: Brennende Getränke niemals trinken. Vor dem Trinken vollständig löschen und abkühlen lassen; am besten auf das Entzünden verzichten.')
         if rec['name']=='Tequila Slammer':st.info('Gläser nicht auf harte Oberflächen schlagen: Verletzungs- und Glasbruchgefahr.')
     if st.button('← Cocktailauswahl'):
+        st.session_state.return_to_id=rec['id']
+        st.session_state.return_scroll_token+=1
         st.session_state.selected=None
         st.session_state.surprise_id=None
         st.rerun()
@@ -114,6 +117,16 @@ for off in range(0,len(matched),3):
     cols=st.columns(3)
     for col,recipe in zip(cols,matched[off:off+3]):
         with col:
+            if st.session_state.return_to_id==recipe['id']:
+                target=f"isi-card-{recipe['id']}-{st.session_state.return_scroll_token}"
+                st.html(
+                    f'<div id="{target}" style="height:0;scroll-margin-top:96px"></div>'
+                    '<script>requestAnimationFrame(() => requestAnimationFrame(() => {'
+                    f'document.getElementById("{target}")?.scrollIntoView({{behavior:"auto",block:"start"}});'
+                    '}));</script>',
+                    unsafe_allow_javascript=True,
+                )
+                st.session_state.return_to_id=None
             with st.container(border=True):
                 show_photo(recipe)
                 st.markdown(f"#### {recipe['name']}")
