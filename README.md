@@ -17,5 +17,5 @@ Die Live-App ist mit dem GitHub-Repository `manuelprohaska/isis-cocktailbar` ver
 
 ## Hinweise
 
-Für Saftmengen werden abgefüllter Zitronen- und Limettensaft verwendet. Frische Früchte bleiben für Garnituren und die Caipirinha nötig. Bei B-52 und Tequila Slammer weist die App auf sichere Handhabung hin. Die Einkaufsliste liegt separat vor und wird Gästen nicht angezeigt.
+Für Saftmengen werden abgefüllter Zitronen- und Limettensaft verwendet. Frische Früchte bleiben für Garnituren und die Caipirinha nötig. Beim Mai Tai verwenden wir 15 ml Cointreau statt orangenen Curaçao. Bei B-52 und Tequila Slammer weist die App auf sichere Handhabung hin. Die Einkaufsliste liegt separat vor und wird Gästen nicht angezeigt.
 
