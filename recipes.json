@@ -87,44 +87,6 @@
     "note": ""
   },
   {
-    "id": 6,
-    "name": "Between The Sheets",
-    "status": "Korrekt",
-    "ingredients": [
-      {
-        "qty": "20",
-        "unit": "ml",
-        "ingredient": "Brandy",
-        "note": "Automatisch erkannt – prüfen"
-      },
-      {
-        "qty": "20",
-        "unit": "ml",
-        "ingredient": "Weißer Rum",
-        "note": "Automatisch erkannt – prüfen"
-      },
-      {
-        "qty": "20",
-        "unit": "ml",
-        "ingredient": "Triple Sec",
-        "note": "Automatisch erkannt – prüfen"
-      },
-      {
-        "qty": "20",
-        "unit": "ml",
-        "ingredient": "Zitronensaft",
-        "note": "Entspricht ungefähr dem Saft einer halben Zitrone"
-      }
-    ],
-    "steps": [
-      "Shaker mit Eis füllen.",
-      "20 ml Brandy, 20 ml weißen Rum, 20 ml Triple Sec und etwa 20 ml Zitronensaft hinzufügen.",
-      "Gut schütteln und in ein Cocktailglas abseihen.",
-      "Mit einer Zitronenzeste garnieren."
-    ],
-    "note": ""
-  },
-  {
     "id": 7,
     "name": "Black Russian",
     "status": "Korrekt",
@@ -234,31 +196,6 @@
       "Tumbler mit Eis füllen.",
       "50ml Tequila Silver und 30ml Kahlua darüber gießen.",
       "Leicht umrühren."
-    ],
-    "note": ""
-  },
-  {
-    "id": 15,
-    "name": "Buck’s Fizz",
-    "status": "Korrekt",
-    "ingredients": [
-      {
-        "qty": "100",
-        "unit": "ml",
-        "ingredient": "Orangensaft",
-        "note": "Automatisch erkannt – prüfen"
-      },
-      {
-        "qty": "50",
-        "unit": "ml",
-        "ingredient": "Sekt",
-        "note": "Automatisch erkannt – prüfen"
-      }
-    ],
-    "steps": [
-      "100ml Orangensaft in ein Glas füllen.",
-      "50ml Sekt oder trockenen Sekt dazugeben und leicht umrühren.",
-      "Mit Orangen-Twist garnieren."
     ],
     "note": ""
   },
@@ -671,80 +608,6 @@
     "note": ""
   },
   {
-    "id": 29,
-    "name": "Gin Rickey",
-    "status": "Korrekt",
-    "ingredients": [
-      {
-        "qty": "50",
-        "unit": "ml",
-        "ingredient": "Gin",
-        "note": "Automatisch erkannt – prüfen"
-      },
-      {
-        "qty": "30",
-        "unit": "ml",
-        "ingredient": "Limettensaft",
-        "note": "Automatisch erkannt – prüfen"
-      }
-    ],
-    "steps": [
-      "Highball-Glas mit Eis füllen.",
-      "50ml Gin und 30ml Limettensaft dazugeben und mit Sodawasser auffüllen.",
-      "Mit Limettenstück garnieren."
-    ],
-    "note": ""
-  },
-  {
-    "id": 30,
-    "name": "Highball",
-    "status": "Korrigiert",
-    "ingredients": [
-      {
-        "qty": "60",
-        "unit": "ml",
-        "ingredient": "Whisky",
-        "note": ""
-      },
-      {
-        "qty": "",
-        "unit": "",
-        "ingredient": "Ginger Ale",
-        "note": "Auffüllen, keine Mengenangabe."
-      }
-    ],
-    "steps": [
-      "Highball-Glas mit Eis füllen.",
-      "60ml Whisky darüber gießen und mit Ginger Ale auffüllen."
-    ],
-    "note": ""
-  },
-  {
-    "id": 34,
-    "name": "Jack and Coke",
-    "status": "Korrekt",
-    "ingredients": [
-      {
-        "qty": "50",
-        "unit": "ml",
-        "ingredient": "Jack Daniel’s",
-        "note": "Automatisch erkannt – prüfen"
-      },
-      {
-        "qty": "150",
-        "unit": "ml",
-        "ingredient": "Cola",
-        "note": "Automatisch erkannt – prüfen"
-      }
-    ],
-    "steps": [
-      "Collins-Glas mit Eis füllen.",
-      "50 ml Jack Daniel’s oder anderen Whisky und 150 ml Cola darüber gießen.",
-      "Leicht umrühren."
-    ],
-    "note": ""
-  },
-  {
     "id": 35,
     "name": "John Collins",
     "status": "Korrekt",
@@ -1024,30 +887,6 @@
     "note": ""
   },
   {
-    "id": 45,
-    "name": "Mimosa",
-    "status": "Korrekt",
-    "ingredients": [
-      {
-        "qty": "75",
-        "unit": "ml",
-        "ingredient": "Sekt",
-        "note": "Bisherige Zutatenliste"
-      },
-      {
-        "qty": "75",
-        "unit": "ml",
-        "ingredient": "Orangensaft",
-        "note": "Bisherige Zutatenliste"
-      }
-    ],
-    "steps": [
-      "75ml Orangensaft und 75ml Sekt in ein Sektflöte geben.",
-      "Leicht umrühren und mit Orangen-Twist garnieren."
-    ],
-    "note": ""
-  },
-  {
     "id": 47,
     "name": "Mojito",
     "status": "Korrigiert",
@@ -1150,31 +989,6 @@
     "note": ""
   },
   {
-    "id": 54,
-    "name": "Screwdriver",
-    "status": "Korrekt",
-    "ingredients": [
-      {
-        "qty": "50",
-        "unit": "ml",
-        "ingredient": "Wodka",
-        "note": "Bisherige Zutatenliste"
-      },
-      {
-        "qty": "100",
-        "unit": "ml",
-        "ingredient": "Orangensaft",
-        "note": "Bisherige Zutatenliste"
-      }
-    ],
-    "steps": [
-      "Highball-Glas mit Eiswürfeln füllen.",
-      "50ml Wodka und 100ml Orangensaft darüber gießen.",
-      "Leicht umrühren und mit Orangenschale garnieren."
-    ],
-    "note": ""
-  },
-  {
     "id": 55,
     "name": "Sidecar",
     "status": "Korrekt",
@@ -1234,38 +1048,6 @@
       "Shaker mit Eiswürfeln füllen.",
       "60ml Gin, 20ml Limettensaft, 20ml Zuckersirup darüber gießen.",
       "Gut schütteln, einen Minzstiel dazugeben und nochmals vorsichtig schütteln um die Minze nicht kaputt zu machen.",
-      "Ins Cocktailglas abseihen und mit einem Minzblatt oder Minzstiel garnieren."
-    ],
-    "note": ""
-  },
-  {
-    "id": 59,
-    "name": "Southside (Variante)",
-    "status": "Korrekt",
-    "ingredients": [
-      {
-        "qty": "60",
-        "unit": "ml",
-        "ingredient": "Gin",
-        "note": "Automatisch erkannt – prüfen"
-      },
-      {
-        "qty": "20",
-        "unit": "ml",
-        "ingredient": "Limettensaft",
-        "note": "Automatisch erkannt – prüfen"
-      },
-      {
-        "qty": "20",
-        "unit": "ml",
-        "ingredient": "Zuckersirup",
-        "note": "Automatisch erkannt – prüfen"
-      }
-    ],
-    "steps": [
-      "Shaker mit Eiswürfeln füllen.",
-      "60ml Gin, 20ml Limettensaft, 20ml Zuckersirup darüber gießen.",
-      "Gut schütteln, einen Minzstiel dazugeben und nochmals vorsichtig schütteln um die Minze nicht kaput zu machen.",
       "Ins Cocktailglas abseihen und mit einem Minzblatt oder Minzstiel garnieren."
     ],
     "note": ""
