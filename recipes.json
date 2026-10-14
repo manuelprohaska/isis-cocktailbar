@@ -87,51 +87,6 @@
     "note": ""
   },
   {
-    "id": 5,
-    "name": "Bee’s Knees",
-    "status": "Korrekt",
-    "ingredients": [
-      {
-        "qty": "50",
-        "unit": "ml",
-        "ingredient": "Gin",
-        "note": "Automatisch erkannt – prüfen"
-      },
-      {
-        "qty": "2",
-        "unit": "TL",
-        "ingredient": "Honig",
-        "note": "Automatisch erkannt – prüfen"
-      },
-      {
-        "qty": "15",
-        "unit": "ml",
-        "ingredient": "Honigsirup",
-        "note": "Automatisch erkannt – prüfen"
-      },
-      {
-        "qty": "20",
-        "unit": "ml",
-        "ingredient": "Zitronensaft",
-        "note": "Automatisch erkannt – prüfen"
-      },
-      {
-        "qty": "20",
-        "unit": "ml",
-        "ingredient": "Orangensaft",
-        "note": "Automatisch erkannt – prüfen"
-      }
-    ],
-    "steps": [
-      "Mischen Sie 50ml Gin und 2 Teelöffel Honig (oder 15ml Honigsirup) in einen Cocktail-Shaker.",
-      "Rühren Sie, bis sich der Honig auflöst, und fügen Sie 20ml Zitronensaft und 20ml Orangensaft hinzu.",
-      "Eis hinzufügen und gut schütteln.",
-      "In ein Martini Glas oder in ein Tumbler Glas mit Eis abseihen.",
-      "Mit einer Orangenschale garnieren."
-    ],
-    "note": ""
-  },
-  {
     "id": 6,
     "name": "Between The Sheets",
     "status": "Korrekt",
@@ -153,11 +108,17 @@
         "unit": "ml",
         "ingredient": "Triple Sec",
         "note": "Automatisch erkannt – prüfen"
+      },
+      {
+        "qty": "20",
+        "unit": "ml",
+        "ingredient": "Zitronensaft",
+        "note": "Entspricht ungefähr dem Saft einer halben Zitrone"
       }
     ],
     "steps": [
       "Shaker mit Eis füllen.",
-      "20 ml Brandy, 20 ml weißen Rum, 20 ml Triple Sec und den Saft einer halben Zitrone hinzufügen.",
+      "20 ml Brandy, 20 ml weißen Rum, 20 ml Triple Sec und etwa 20 ml Zitronensaft hinzufügen.",
       "Gut schütteln und in ein Cocktailglas abseihen.",
       "Mit einer Zitronenzeste garnieren."
     ],
@@ -311,6 +272,18 @@
         "unit": "ml",
         "ingredient": "Cachaça",
         "note": "Bisherige Zutatenliste"
+      },
+      {
+        "qty": "1",
+        "unit": "Stück",
+        "ingredient": "Limette",
+        "note": "Physisch zum Zerstoßen erforderlich"
+      },
+      {
+        "qty": "",
+        "unit": "",
+        "ingredient": "Zucker",
+        "note": "Nach Geschmack, siehe Zubereitung"
       }
     ],
     "steps": [
@@ -1297,7 +1270,7 @@
     ],
     "steps": [
       "Shaker mit Eiswürfeln füllen.",
-      "60ml Gin, 20ml frischen Limettensaft, 20ml Zuckersirup darüber gießen.",
+      "60ml Gin, 20ml Limettensaft, 20ml Zuckersirup darüber gießen.",
       "Gut schütteln, einen Minzstiel dazugeben und nochmals vorsichtig schütteln um die Minze nicht kaputt zu machen.",
       "Ins Cocktailglas abseihen und mit einem Minzblatt oder Minzstiel garnieren."
     ],
@@ -1329,7 +1302,7 @@
     ],
     "steps": [
       "Shaker mit Eiswürfeln füllen.",
-      "60ml Gin, 20ml frischen Limettensaft, 20ml Zuckersirup darüber gießen.",
+      "60ml Gin, 20ml Limettensaft, 20ml Zuckersirup darüber gießen.",
       "Gut schütteln, einen Minzstiel dazugeben und nochmals vorsichtig schütteln um die Minze nicht kaput zu machen.",
       "Ins Cocktailglas abseihen und mit einem Minzblatt oder Minzstiel garnieren."
     ],
@@ -1623,3 +1596,4 @@
     "note": ""
   }
 ]
+
