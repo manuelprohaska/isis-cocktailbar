@@ -1,35 +1,21 @@
-# Isi’s Cocktailbar – Einkaufsauswahl für 10 Gäste (Version 6)
+# Isi’s Cocktailbar – 40 Cocktails zum 40er (Version 7)
 
-## Inhalt
-- `app.py`: Streamlit-Gäste-App, elegante Dunkel/Gold-Optik
-- `recipes.json`: 48 für die Feier ausgewählte Rezepte
-- `assets/`: bereinigte Cocktailfotos mit reinweißem Rand sowie vollständige Infotexte der Original-Screenshots
-- `requirements.txt`, `.streamlit/config.toml`: Hosting-Konfiguration
+Die App enthält genau 40 für die Feier ausgewählte Rezepte, 40 bereinigte Cocktailfotos und 38 Infotexte aus den Original-Screenshots. Die acht zuletzt gestrichenen Cocktails sind Jack and Coke, Between The Sheets, Buck’s Fizz, Gin Rickey, Highball, Mimosa, Screwdriver und Southside (Variante). Die zuvor auf Wunsch entfernten acht Rezepte bleiben ebenfalls ausgeschlossen.
 
-14 in der Rezeptprüfung als **Entfernt** markierte Rezepte werden nicht angezeigt. Zusätzlich wurden auf Wunsch sechs Cocktails wegen Apfelschnaps, Crème de Cassis, Scotch Whisky, Roggenwhisky und Rotwein gestrichen. Bee’s Knees entfällt wegen Honig; Monkey Gland wegen Absinth. Für die übrigen 48 Cocktails wird abgefüllter Zitronen- und Limettensaft zum Mixen eingeplant; frische Zitrusfrüchte bleiben für Stücke, Scheiben, Zesten, Twists und die Caipirinha nötig. Beim Between The Sheets entspricht die frühere halbe Zitrone nun ungefähr 20 ml Zitronensaft. Die Motive der originalen Rezeptfotos bleiben erhalten; störende Textreste am oberen oder unteren Bildrand sind weiß abgedeckt.
+## Bedienung
 
-## Start
+„Rezept ansehen“ öffnet den Cocktail und springt automatisch nach oben zum Rezept. „← Cocktailauswahl“ schließt das Rezept und springt zurück zum selben Cocktail in der Liste. Filter nach Spirituose, Zutat und Name sowie „Surprise me, Isi!“ bleiben verfügbar. Die frühere Zeile mit der Anzahl passender und geprüfter Cocktails ist entfernt.
+
+## Start und Deployment
+
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Bestehende Live-App aktualisieren
-Die Live-App ist mit dem GitHub-Repository `manuelprohaska/isis-cocktailbar` verbunden. Die 48 bereinigten Foto-Dateien und 46 vollständigen Infotexte sind SVG-Dateien im Ordner `assets/`.
+Die Live-App ist mit dem GitHub-Repository `manuelprohaska/isis-cocktailbar` verbunden. Für einen manuellen Upload das ZIP entpacken und die enthaltenen Dateien und den Ordner `assets/` auf `main` hochladen; `app.py` bleibt die Hauptdatei. Der bestehende QR-Code führt weiterhin zur gleichen App-Adresse.
 
-1. ZIP entpacken. **Nicht das ZIP selbst** bei GitHub hochladen.
-2. Im Repository auf dem Branch `main` über **Add file → Upload files** die entpackten Dateien `app.py`, `recipes.json`, `requirements.txt`, `.streamlit/config.toml` und den gesamten Ordner `assets/` in derselben Ordnerstruktur hochladen. Bestehende gleichnamige Dateien überschreiben.
-3. Die Änderung mit **Commit changes** speichern. `app.py` bleibt die Hauptdatei.
-4. Die Live-App erneut öffnen oder aktualisieren. Oben müssen **48 geprüfte Rezepte insgesamt** stehen. Margarita und Tequila Sunrise zeigen unter „Über diesen Cocktail“ den vollständigen Absatz.
+## Hinweise
 
-Die Datei `QA_SUMMARY.md` dient nur der Dokumentation.
-
-## Bedienung
-Auf Mobilgeräten Filter nach Spirituosen, Zutaten oder Cocktailname auswählen. „Rezept ansehen“ öffnet den Cocktail und scrollt automatisch zu dessen Rezept oberhalb der Cocktailkarte. Dort Menge skalieren und Zubereitung lesen. Der Surprise-Button zeigt sofort ein zufälliges Rezept aus den gefilterten Ergebnissen. Die Mengenliste skaliert; die freigegebenen Zubereitungsschritte beschreiben weiterhin einen Cocktail.
-
-## Qualitäts- und Sicherheitshinweise
-- Die freigegebenen Mengen bleiben erhalten, außer der ausdrücklich gewünschten Umstellung beim Between The Sheets auf ungefähr 20 ml Zitronensaft statt einer halben Zitrone.
-- Einige von der Nutzerprüfung freigegebene Listen nennen nicht alle Garnituren oder Alternativen separat; die Zubereitung enthält weitere Hinweise.
-- Der B-52-Schritt aus den freigegebenen Daten enthält eine Anweisung zum Trinken brennender Flüssigkeit; die App ergänzt deswegen ausdrücklich einen Sicherheitshinweis, keine brennenden Getränke zu trinken.
-- Keine Einkaufsliste und keine Bearbeitungsmöglichkeit für Gäste.
+Für Saftmengen werden abgefüllter Zitronen- und Limettensaft verwendet. Frische Früchte bleiben für Garnituren und die Caipirinha nötig. Bei B-52 und Tequila Slammer weist die App auf sichere Handhabung hin. Die Einkaufsliste liegt separat vor und wird Gästen nicht angezeigt.
 
